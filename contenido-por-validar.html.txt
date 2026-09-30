@@ -1,0 +1,26 @@
+<section class="results">
+  <div class="section-bg" aria-hidden="true"><img src="assets/brainmanager-dashboard.jpg" alt="" loading="lazy"></div>
+  <p class="eyebrow reveal-up">Resultados documentados</p>
+  <div class="results__grid">
+    <div class="results__item reveal-up">
+      <span class="results__num" data-count="58">0</span><span class="results__suffix">%</span>
+      <p>ahorro operativo en procesos de afiliaciones e incapacidades</p>
+    </div>
+    <div class="results__item reveal-up reveal--delay-1">
+      <span class="results__num" data-count="60">0</span><span class="results__suffix">%</span>
+      <p>reducción en tiempos de procesamiento</p>
+    </div>
+    <div class="results__item reveal-up reveal--delay-2">
+      <span class="results__num" data-count="99">0</span><span class="results__suffix">%</span>
+      <p>disponibilidad del sistema, soporte 24/7</p>
+    </div>
+    <div class="results__item reveal-up reveal--delay-3">
+      <span class="results__num" data-count="100">0</span><span class="results__suffix">%</span>
+      <p>trazabilidad completa en repositorio centralizado</p>
+    </div>
+  </div>
+  <p class="results__note">Cifras documentadas en implementaciones de Brain Manager para gestión de afiliaciones e incapacidades.</p>
+</section>
+
+También confirmar: 12 nodos RPA, Zero Trust, Azure, analítica predictiva y validación normativa automática.
+Conservar respaldo de clientes y autorización de logos. Confirmar correspondencia del video de recobro con Cerebro Gerencial.
